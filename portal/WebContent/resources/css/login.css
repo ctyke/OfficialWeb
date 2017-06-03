@@ -1,0 +1,27 @@
+.logic-area {
+	background: rgba(191, 191, 191, 0.4);
+	color: white;
+	border-radius: 10px;
+	padding: 1em;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+	box-shadow: 5px 5px 5px #000;
+}
+
+.login-form{
+	width:250px;
+	min-height:300px;
+}
+
+.login-background {
+
+  background-image: url(../img/material_black.jpg);
+  background-position: center center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
